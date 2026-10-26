@@ -17,11 +17,6 @@ visitors, page views, pages per visit, Core Web Vitals and conversions, side by 
 ## Open source
 
 - [lookout-mcp](https://github.com/lookoutstats/lookout-mcp): the MCP server for Lookout (MIT).
-- [lookout-skills](https://github.com/lookoutstats/lookout-skills): agent skills for Claude Code, Cursor, Codex and other agents (MIT). `lookout-fix` fixes the top item of your Fix list in your code. `lookout-report` writes a weekly report from your boards.
-
-  ```text
-  /plugin marketplace add lookoutstats/lookout-skills    # Claude Code
-  npx skills add lookoutstats/lookout-skills             # Cursor, Codex, Copilot and others
-  ```
+- [lookout-skills](https://github.com/lookoutstats/lookout-skills): agent skills for Claude Code, Cursor, Codex and other agents (MIT).
 
 Lookout is not affiliated with Vercel Inc. Contact: hello@lookoutstats.com
