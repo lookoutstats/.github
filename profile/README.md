@@ -18,5 +18,6 @@ visitors, page views, pages per visit, Core Web Vitals and conversions, side by 
 
 - [lookout-mcp](https://github.com/lookoutstats/lookout-mcp): the MCP server for Lookout (MIT).
 - [lookout-skills](https://github.com/lookoutstats/lookout-skills): agent skills for Claude Code, Cursor, Codex and other agents (MIT).
+- [vercel-analytics-api](https://github.com/lookoutstats/vercel-analytics-api): a typed client for the Vercel Web Analytics and Speed Insights API, with no dependencies (MIT).
 
 Lookout is not affiliated with Vercel Inc. Contact: hello@lookoutstats.com
