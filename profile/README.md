@@ -4,6 +4,8 @@ Vercel Web Analytics for every project, in one view.
 
 [![Lookout: every Vercel project on one board, with drop alerts, a scorecard, a TV mode and a phone app](https://raw.githubusercontent.com/lookoutstats/.github/main/profile/lookout-demo.webp)](https://lookoutstats.com/demo)
 
+▶ [Watch the 30-second video](https://youtu.be/JLAQP-RVzvI)
+
 Lookout reads the analytics Vercel already collects and puts all your projects on one board:
 visitors, page views, pages per visit, Core Web Vitals and conversions, side by side.
 
